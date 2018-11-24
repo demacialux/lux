@@ -1,3 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 a = input('闷声发大财')
+print(a)
